@@ -1,0 +1,14 @@
+.link{
+    text-decoration: none;
+    color: #009ace ;
+    border-radius:19px ;
+    -webkit-border-radius:19px ;
+    -moz-border-radius:19px ;
+    -ms-border-radius:19px ;
+    -o-border-radius:19px ;
+    padding: 5px ;
+}
+.link:hover{
+    color:white;
+    background-color: #009ace;
+}

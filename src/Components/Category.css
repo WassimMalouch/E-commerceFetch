@@ -1,0 +1,45 @@
+.category{
+    display:flex;
+    gap:20px;
+    margin:10px;
+    width: fit-content;
+    margin-right:auto;
+    margin-left:auto;
+    background-color: #009ace;
+    padding:20px 30px ;
+    border-radius:19px ;
+    color:#ffffff;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+
+.btnCat{
+    padding: 2px 5px;
+    border-radius: 19px;
+
+}
+.active{
+    color:#009ace;
+    background-color:#ffffff ;
+}
+
+
+
+
+.btnCat:hover{
+    color:#009ace;
+    background-color:#ffffff ;
+}
+
+
+.btnReset{
+    padding: 2px 5px;
+    border-radius: 19px;}
+
+
+.btnReset:hover{
+    color:#009ace;
+    background-color:#ffffff ;
+}
